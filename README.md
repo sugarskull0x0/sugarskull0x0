@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sugarskull0x0
+- 👀 I’m interested in Cybersecurity, Offensive Security & Penetration Testing.
+- 🔏 I’m currently learning Web Application Penetration Testing.
+- 👨🏻‍💻 I’m looking to collaborate on Cybersecurity Tech Projects.
+- 📫 You can reach me through [mr.sugarskull0x0@gmail.com]
+- 😄 Pronouns: Khaled Sokkar.
+- ⚡ Fun fact: very obsessed with learning the new security tech stuff & teaching it to others.
